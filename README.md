@@ -35,8 +35,8 @@
 ###
 
 <br clear="both">
-
-<h3 align="left">📬 Social:</h3>
+<div>
+  <h3 align="left">📬 Social:</h3>
 <span>
   <div align="right">
     <a href="www.linkedin.com/in/dionisie-pulbere" target="_blank">
@@ -44,6 +44,7 @@
     </a>
   </div>
 </span>
+</div>
 
 ###
 <!--
