@@ -35,16 +35,11 @@
 ###
 
 <br clear="both">
-<div>
-  <h3 align="left">📬 Social:</h3>
-<span>
+  
   <div align="right">
-    <a href="www.linkedin.com/in/dionisie-pulbere" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"   height="40" alt="linkedin logo"  />
-    </a>
+    <h3>📬 Social:</h3>
+    <a href="www.linkedin.com/in/dionisie-pulbere" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
   </div>
-</span>
-</div>
 
 ###
 <!--
