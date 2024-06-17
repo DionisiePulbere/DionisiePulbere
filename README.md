@@ -36,9 +36,11 @@
 
 <br clear="both">
   
-  <div align="right">
+  <div align="left">
     <h3>📬 Social:</h3>
+    <span>
     <a href="www.linkedin.com/in/dionisie-pulbere" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+    </span>
   </div>
 
 ###
