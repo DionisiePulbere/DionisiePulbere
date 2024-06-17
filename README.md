@@ -36,15 +36,14 @@
 
 <br clear="both">
 
-<h2 align="left">📬 Social:</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/dionisie-pulbere" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="left">📬 Social:</h3>
+<span>
+  <div align="left">
+    <a href="www.linkedin.com/in/dionisie-pulbere" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"   height="40" alt="linkedin logo"  />
+    </a>
+  </div>
+</span>
 
 ###
 <!--
